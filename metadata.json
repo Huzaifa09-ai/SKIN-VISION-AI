@@ -1,0 +1,7 @@
+{
+  "name": "SkinVisionAI",
+  "description": "Professional AI skincare assistant with selfie analysis, store-bought routines, and natural DIY remedies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
